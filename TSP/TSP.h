@@ -1,9 +1,6 @@
 
 
-#ifndef INC_4THSEM_TSP_H
-#define INC_4THSEM_TSP_H
 
-#endif //INC_4THSEM_TSP_H
 
 #include <stdlib.h>
 #include <iterator>
